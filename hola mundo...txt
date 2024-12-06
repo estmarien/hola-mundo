@@ -1,0 +1,17 @@
+#include <studio.h>
+int Main (){
+printf ("hola mundo");
+return 0;
+}
+
+
+
+
+
+Vicerrectorado de Docencia
+Unidad de Apoyo a la Formación Académica
+
+
+
+Tema(s) n.°
+
